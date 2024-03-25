@@ -14,13 +14,14 @@ This repository contains my implementations for solving problems. Each game is s
 The Knight's Tour is a classic chess problem where the objective is to move a knight to every square on a chessboard exactly once. The knight can only moves as letter L in the 4 directions. In my implementation, I utilized the genetic algorithm as an approch to determin a correct possible combinaison. 
 
 ### Knight Tour demonstration
+https://github.com/amineboucenna/Problem-Solving/assets/89776217/23987a02-6e87-432f-beea-178e7485e336
 
 ## Rush Hour Puzzle
 
 Rush Hour Puzzle is a sliding block puzzle where the player must move vehicles within a congested parking lot to free a specific vehicle (in  the game i implemented it is the red car). The red car can only move in one direction. This game includes CSV configurations of various puzzles and implements both Breadth-First Search (BFS) and A* algorithm for solving them. The user can make his own CSV configuration and he can add obstacles by adding walls (#) to his CSV file configuration. 
 
 ### Rush Hour Puzzle demonstration
-
+https://github.com/amineboucenna/Problem-Solving/assets/89776217/05710122-5221-426b-89c2-139afd931d87
 ## Fifteen Puzzle
 
 The Fifteen Puzzle, is a game where players arrange numbered square tiles in ascending order, with one tile missing. The objective is to reach the goal state by sliding tiles into the empty space. This implementation uses BFS to solve the puzzle efficiently.
